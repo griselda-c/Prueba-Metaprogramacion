@@ -139,7 +139,7 @@ if __FILE__ == $0
 
   code = proc { puts self }
   pe = Perro.instance_eval(&code)
-  puts pe
+
 
 
 end
